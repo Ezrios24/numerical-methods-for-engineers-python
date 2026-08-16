@@ -28,8 +28,14 @@ def backsub(A, B):
     Notes
     -----
     Adapted from:
-    Mathews, J. H., & Fink, K. D. (2004).
-    Numerical Methods Using MATLAB (4th ed.). Prentice-Hall.
+    NUMERICAL METHODS: Matlab Programs
+    (c) 2004 by John H. Mathews and Kurtis D. Fink
+    Complementary Software to accompany the textbook:
+    NUMERICAL METHODS: Using Matlab, Fourth Edition
+    ISBN: 0-13-065248-2
+    Prentice-Hall Pub. Inc.
+    One Lake Street
+    Upper Saddle River, NJ 07458
     """
     # --- Input validation ---
     # Ensure A is a 2D square matrix
