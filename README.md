@@ -1,8 +1,8 @@
 # numerical-methods-for-engineers-python
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-1.20%2B-brightgreen)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.3%2B-orange)](https://matplotlib.org/)
+[![Python](https://img.shields.io/badge/Python-3.14.6%2B-blue)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-2.4.6%2B-brightgreen)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.11.0%2B-orange)](https://matplotlib.org/)
 
 ## 📖 About This Repository
 
